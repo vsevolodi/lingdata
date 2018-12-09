@@ -288,27 +288,27 @@
     <TIER LINGUISTIC_TYPE_REF="utterance-acc" PARENT_REF="rmg@speech" PARTICIPANT="rmg@" TIER_ID="rmg@acc">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>ку'да класть</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>куда' класть</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>мне 'некуда класть</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мне не'куда класть</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>сю'да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>сюда'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>хоро'шо</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>хорошо'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>живём и 'можно погу'лять. хоро'шо</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>живём и мо'жно погуля'ть. хоро'шо</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -318,27 +318,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE>'левый 'верхний 'угол</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ле'вый ве'рхний у'гол</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a8">
-                <ANNOTATION_VALUE>ку'да хо'тя б, пока'жи мне</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>куда' хотя' б, покажи' мне</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>ну,пото'му что ты так то'ропишься. я не сообра'жаю где там,ка'кой левый</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну,потому' что ты так торо'пишься. я не сообража'ю где там,како'й левый</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>ниче'го себе</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ничего' себе</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>ко'му по'лезно? пожи'лой 'женщине?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>кому' поле'зно? пожило'й же'нщине?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -348,17 +348,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a13">
-                <ANNOTATION_VALUE>ну, что, 'место, где мы живём?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну, что, ме'сто, где мы живём?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a14">
-                <ANNOTATION_VALUE>хоро'шо. ку'да класть</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>хорошо'. куда' класть</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a15">
-                <ANNOTATION_VALUE>ну, так на'верное, я не 'знаю</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну, так наве'рное, я не зна'ю</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -442,7 +442,7 @@
     <TIER LINGUISTIC_TYPE_REF="utterance-acc" PARENT_REF="vap@speech" PARTICIPANT="vap@" TIER_ID="vap@acc">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>а здесь 'сверху от преды'дущей</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а здесь све'рху от предыду'щей</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -457,12 +457,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a19">
-                <ANNOTATION_VALUE>а са'мо 'место</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а само' ме'сто</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>'ладно</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ла'дно</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -472,42 +472,42 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>да'вай тог'да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>дава'й тогда'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a23">
-                <ANNOTATION_VALUE>'место, где мы живём, но, где 'можно погу'лять</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ме'сто, где мы живём, но, где мо'жно погуля'ть</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>да. поло'жи это в 'левый 'верхний 'угол</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>да. положи' это в ле'вый ве'рхний у'гол</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a25">
-                <ANNOTATION_VALUE>'левый 'верхний сво'бодный 'угол</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ле'вый ве'рхний свобо'дный у'гол</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a26">
-                <ANNOTATION_VALUE>ну,по'казывать нель'зя</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну,пока'зывать нельзя'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a27">
-                <ANNOTATION_VALUE>так и 'надо</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>так и на'до</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>это 'очень по'лезно</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это о'чень поле'зно</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a29">
-                <ANNOTATION_VALUE>те'бе, да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>тебе', да</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -517,7 +517,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a31">
-                <ANNOTATION_VALUE>быст'рее</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>быстре'е</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -532,7 +532,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a34">
-                <ANNOTATION_VALUE>ну, да'вай. ис'тория 'места, где мы живём</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну, дава'й. исто'рия ме'ста, где мы живём</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -542,22 +542,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a36">
-                <ANNOTATION_VALUE>'справа</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>спра'ва</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a37">
-                <ANNOTATION_VALUE>'справа. 'самая 'верхняя 'правая часть</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>спра'ва. са'мая ве'рхняя пра'вая часть</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a38">
-                <ANNOTATION_VALUE>пра'вее, чем верх-, 'выше</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>праве'е, чем верх-, вы'ше</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE>'больше пра'вее,чем 'выше</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>бо'льше праве'е,чем вы'ше</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
